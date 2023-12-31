@@ -27,36 +27,39 @@ List updated on 31/12/2023.
 ## List of projects
 
 - :uk: [Hackr.io](https://hackr.io/blog/python-projects) - 30 projets
+
     Beginner
     - [x] [1. Mad Libs Generator](https://github.com/Vhivi/MadLibsGenerator)
-    - [ ] [2. Number Guessing]()
+    - [ ] [2. Number Guessing]
     - [x] [3. Rock Paper Scissors](https://github.com/Vhivi/PierrePapierCiseaux)
-    - [ ] [4. Dice Roll Generator]()
+    - [ ] [4. Dice Roll Generator]
     - [x] [5. Hangman Game](https://github.com/Vhivi/JeuDuPendu)
-    - [ ] [6. Password Strenght Checker]()
-    - [ ] [7. Number to Words]()
+    - [ ] [6. Password Strenght Checker]
+    - [ ] [7. Number to Words]
     - [x] [8. Tic-Tac-Toe Game](https://github.com/Vhivi/Morpion)
-    - [ ] [9. Calculator]()
-    - [ ] [10. Countdown Clock and Timer]()
+    - [ ] [9. Calculator]
+    - [ ] [10. Countdown Clock and Timer]
+
     Intermediate
     - [x] [11. Binary Search Algorithm](https://github.com/Vhivi/RechercheDichotomique)
-    - [ ] [12. Merge Sort Algorithm]()
-    - [ ] [13. Password Generator]()
-    - [ ] [14. Currency Converter]()
-    - [ ] [15. Automatic Birthday Mail Sending]()
-    - [ ] [16. Queue]()
-    - [ ] [17. Pascal’s Triangle]()
-    - [ ] [18. Blackjack]()
-    - [ ] [19. Reddit Bot]()
+    - [ ] [12. Merge Sort Algorithm]
+    - [ ] [13. Password Generator]
+    - [ ] [14. Currency Converter]
+    - [ ] [15. Automatic Birthday Mail Sending]
+    - [ ] [16. Queue]
+    - [ ] [17. Pascal’s Triangle]
+    - [ ] [18. Blackjack]
+    - [ ] [19. Reddit Bot]
     - [x] [20. Fibonacci Generator](https://github.com/Vhivi/GenerateurFibonacci)
+
     Advanced
-    - [ ] [21. Chatbot]()
-    - [ ] [22. Text to Speech]()
-    - [ ] [23. Library Management System]()
-    - [ ] [24. Pong Arcade Game]()
-    - [ ] [25. Speed Typing Test]()
-    - [ ] [26. Text Editor]()
-    - [ ] [27. Sudoku Solver]()
-    - [ ] [28. Site Connectivity Checker]()
-    - [ ] [29. Language Detector]()
-    - [ ] [30. Netflix Recommendation System]()
+    - [ ] [21. Chatbot]
+    - [ ] [22. Text to Speech]
+    - [ ] [23. Library Management System]
+    - [ ] [24. Pong Arcade Game]
+    - [ ] [25. Speed Typing Test]
+    - [ ] [26. Text Editor]
+    - [ ] [27. Sudoku Solver]
+    - [ ] [28. Site Connectivity Checker]
+    - [ ] [29. Language Detector]
+    - [ ] [30. Netflix Recommendation System]
