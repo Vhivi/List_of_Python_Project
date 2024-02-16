@@ -30,7 +30,7 @@ List updated on 31/12/2023.
 
     Beginner
     - [x] [1. Mad Libs Generator](https://github.com/Vhivi/MadLibsGenerator)
-    - [ ] [2. Number Guessing]
+    - [x] [2. Number Guessing](https://github.com/Vhivi/LeJustePrix)
     - [x] [3. Rock Paper Scissors](https://github.com/Vhivi/PierrePapierCiseaux)
     - [ ] [4. Dice Roll Generator]
     - [x] [5. Hangman Game](https://github.com/Vhivi/JeuDuPendu)
