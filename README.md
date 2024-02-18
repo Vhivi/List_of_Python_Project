@@ -10,7 +10,7 @@ The list will be updated as my free time permits and as I make progress on the v
 
 My date format is `dd/mm/yyyy`.
 List created on 31/12/2023.
-List updated on 31/12/2023.
+List updated on 18/02/2024.
 
 ## Sites offering project ideas
 
@@ -32,7 +32,7 @@ List updated on 31/12/2023.
     - [x] [1. Mad Libs Generator](https://github.com/Vhivi/MadLibsGenerator)
     - [x] [2. Number Guessing](https://github.com/Vhivi/LeJustePrix)
     - [x] [3. Rock Paper Scissors](https://github.com/Vhivi/PierrePapierCiseaux)
-    - [ ] [4. Dice Roll Generator]
+    - [x] [4. Dice Roll Generator](https://github.com/Vhivi/DiceRollGenerator)
     - [x] [5. Hangman Game](https://github.com/Vhivi/JeuDuPendu)
     - [ ] [6. Password Strenght Checker]
     - [ ] [7. Number to Words]
